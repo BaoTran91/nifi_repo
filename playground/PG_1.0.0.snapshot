@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "dataModelVersion" : "3"
+  },
+  "content" : {
+    "flowSnapshot" : {
+      "flowContents" : {
+        "comments" : "",
+        "componentType" : "PROCESS_GROUP",
+        "connections" : [ ],
+        "controllerServices" : [ ],
+        "funnels" : [ ],
+        "identifier" : "7c7aa781-f9d4-3390-81af-81b5d31989cd",
+        "inputPorts" : [ ],
+        "labels" : [ ],
+        "name" : "plaground_PG",
+        "outputPorts" : [ ],
+        "position" : {
+          "x" : 366.0,
+          "y" : 136.0
+        },
+        "processGroups" : [ ],
+        "processors" : [ ],
+        "remoteProcessGroups" : [ ],
+        "variables" : { }
+      }
+    }
+  }
+}
