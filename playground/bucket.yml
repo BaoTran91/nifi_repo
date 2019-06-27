@@ -1,5 +1,5 @@
 flows:
-  6df3c209-3584-4729-b847-242de4efe9e2: {ver: 1, file: PG_play.snapshot, comments: playground,
-    author: anonymous, created: 1561606785145, flowName: PG_play, flowDesc: playground}
+  6df3c209-3584-4729-b847-242de4efe9e2: {ver: 2, file: PG_play.snapshot, comments: trial
+      commit, author: anonymous, created: 1561606858758, flowName: PG_play, flowDesc: playground}
 layoutVer: 1
 bucketId: 5e3ca540-3650-4185-90a1-5be853e3e32e
